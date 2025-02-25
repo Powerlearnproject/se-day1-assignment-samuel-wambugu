@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems
 importance:
-    creation of software applications and systems that power various aspects of modern life which including communication, commerce, entertainment, and healthcare.
+    creation of software applications and systems that power various aspects of modern life including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
   development of the first programming language
@@ -44,7 +44,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing: Testing individual components or modules of software while Integration Testing: Testing interactions between different components or subsystems while System Testing: Testing the entire software system as a whole while Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+Unit Testing: Testing individual components or modules of software while Integration Testing Testing interactions between different components or subsystems while System Testing: Testing the entire software system as a whole while Acceptance Testing Testing the software against user requirements to ensure it meets user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
